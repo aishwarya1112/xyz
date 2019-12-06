@@ -4,7 +4,7 @@
        if(val1,val2)
        printf("hello");
        else
-       printf("hai")
+       printf("hai");
        
       return 0;
      }
